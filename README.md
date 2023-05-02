@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @jason-hazenfield
-- 👀 I’m interested in web application development.
-- 🌱 I’m currently learning Django, and improving my skills with Python, JavaScript, HTML, CSS, and SQL. 
-- 💞️ I’m looking to collaborate on anything using any of the technologies listed above.
 - 📫 How to reach me jason.hazenfield01@gmail.com
